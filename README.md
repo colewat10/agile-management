@@ -21,7 +21,7 @@ BMAD transforms agile development by solving the two biggest problems in AI-assi
 
 ```bash
 # Add plugin marketplace
-/plugin marketplace add yourusername/agile-management
+/plugin marketplace add colewat10/agile-management
 
 # Install the plugin
 /plugin install agile-management
