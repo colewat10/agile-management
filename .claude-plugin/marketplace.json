@@ -1,9 +1,9 @@
 {
   "name": "agile-management-bmad",
   "owner": {
-    "name": "Cole",
-    "email": "cole@example.com",
-    "url": "https://github.com/coleuser"
+    "name": "Cole Watkins",
+    "email": "colewatkins6@gmail.com",
+    "url": "https://github.com/colewat10"
   },
   "metadata": {
     "description": "BMAD methodology for agile project management - comprehensive PRD creation, architecture design, and context-engineered development stories",
@@ -16,11 +16,11 @@
       "description": "Two-phase BMAD workflow: agentic planning (PRDs + architecture) and context-engineered development (hyper-detailed stories)",
       "version": "1.0.0",
       "author": {
-        "name": "Cole",
-        "url": "https://github.com/coleuser"
+        "name": "Cole Watkins",
+        "url": "https://github.com/colewat10"
       },
-      "homepage": "https://github.com/coleuser/agile-management",
-      "repository": "https://github.com/coleuser/agile-management",
+      "homepage": "https://github.com/colewat10/agile-management",
+      "repository": "https://github.com/colewat10/agile-management",
       "license": "MIT",
       "keywords": [
         "agile",
